@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
+.DS_Store
+public/assets
+public/img
+puclic/js/helpers
+storage/debugbar
+config/debugbar.php

@@ -1,0 +1,30 @@
+{
+  "name": "shopping_mail",
+  "description": "bower for shopping mail",
+  "main": "shopping mail",
+  "authors": [
+    "ntt"
+  ],
+  "license": "ntt",
+  "keywords": [
+    "bower"
+  ],
+  "homepage": "https://github.com/framgia/shopping_mall_04",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "bootstrap-star-rating": "^4.0.1",
+    "metisMenu": "^2.7.0",
+    "datatables-plugins": "^1.10.15",
+    "datatables-responsive": "^2.1.1",
+    "css": "^2.2.1"
+  }
+}
